@@ -18,4 +18,6 @@ pluginManagement {
 
 plugins {
     id("com.gtnewhorizons.gtnhsettingsconvention") version("1.0.43")
+    id("com.gtnewhorizons.gtnhgradle")
+    id("com.gtnewhorizons.gtnhconvention")
 }

@@ -1,4 +1,4 @@
-package com.myname.mymodid;
+package dev.evokerking.tempad;
 
 public class ClientProxy extends CommonProxy {
 

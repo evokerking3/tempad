@@ -1,4 +1,4 @@
-package com.myname.mymodid;
+package dev.evokerking.tempad;
 
 import java.io.File;
 
