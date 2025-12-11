@@ -17,7 +17,6 @@ pluginManagement {
 }
 
 plugins {
-    id("com.gtnewhorizons.gtnhsettingsconvention") version("1.0.43")
-    id("com.gtnewhorizons.gtnhgradle")
-    id("com.gtnewhorizons.gtnhconvention")
+    // Only settings plugin should be applied here
+    id("com.gtnewhorizons.gtnhsettingsconvention") version("2.0.5")
 }

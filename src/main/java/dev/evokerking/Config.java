@@ -1,4 +1,4 @@
-package dev.evokerking.tempad;
+package dev.evokerking;
 
 import java.io.File;
 
