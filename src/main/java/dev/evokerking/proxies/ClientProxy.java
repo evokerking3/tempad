@@ -1,4 +1,4 @@
-package dev.evokerking;
+package dev.evokerking.proxies;
 
 public class ClientProxy extends CommonProxy {
 

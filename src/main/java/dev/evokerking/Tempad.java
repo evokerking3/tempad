@@ -1,5 +1,6 @@
 package dev.evokerking;
 
+import dev.evokerking.proxies.CommonProxy;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -16,7 +17,7 @@ public class Tempad {
     public static final String MODID = "tempad";
     public static final Logger LOG = LogManager.getLogger(MODID);
 
-    @SidedProxy(clientSide = "dev.evokerking.ClientProxy", serverSide = "dev.evokerking.CommonProxy")
+    @SidedProxy(clientSide = "dev.evokerking.proxies.ClientProxy", serverSide = "dev.evokerking.proxies.CommonProxy")
     public static CommonProxy proxy;
 
     @Mod.EventHandler

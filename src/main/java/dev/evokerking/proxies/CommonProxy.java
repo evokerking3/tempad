@@ -1,9 +1,12 @@
-package dev.evokerking;
+package dev.evokerking.proxies;
 
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.event.FMLServerStartingEvent;
+import dev.evokerking.Config;
+import dev.evokerking.Tags;
+import dev.evokerking.Tempad;
 
 public class CommonProxy {
 
