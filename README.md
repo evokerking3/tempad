@@ -6,6 +6,7 @@
 An example mod for Minecraft 1.7.10 with Forge focussed on a stable, updatable setup.
 
 ### Motivation
+Hello!!
 
 We had our fair share in struggles with build scripts for Minecraft Forge. There are quite a few pitfalls from non-obvious error messages. This Example Project provides you a build system you can adapt to over 90% of Minecraft Forge mods and can easily be updated if need be.
 
